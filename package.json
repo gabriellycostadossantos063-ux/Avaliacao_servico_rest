@@ -1,0 +1,24 @@
+{
+  "name": "avaliacao_servico_rest",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/gabriellycostadossantos063-ux/Avaliacao_servico_rest#readme",
+  "bugs": {
+    "url": "https://github.com/gabriellycostadossantos063-ux/Avaliacao_servico_rest/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriellycostadossantos063-ux/Avaliacao_servico_rest.git"
+  },
+  "license": "ISC",
+  "author": "Gabrielly",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
